@@ -12,13 +12,23 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
 
-//code 1
+        //code 1
         
         /*
          
          code1
          code1
          code1
+         
+         */
+        
+        //code 2
+        
+        /*
+         
+         code 2
+         code 2
+         code 2
          
          */
 
